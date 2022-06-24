@@ -1,0 +1,17 @@
+Basic NODE commands-
+
+npm init --yes :- to setup new npm package
+
+npm install moment :- to install package locally
+
+npm install moment --save :- save package locally and automatically add dependency in package.json
+
+npm install lodash --save-dev :- use to flag dependency as dev
+
+npm uninstall moment :-to uninstall a local package
+
+npm install moment -g :- to install package globally
+
+npm list :- to list all the installed package
+
+npm prune- remove all extraneous packages
