@@ -1,0 +1,45 @@
+>> Nodejs:-
+-Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine).
+
+-Node.js is an open source, cross-platform runtime environment for developing server-side and networking applications. 
+
+-Node.js applications are written in JavaScript.
+
+>> why Nodejs is popular?
+-very fast
+
+-uses javascript
+
+-Huge ecosystem of open source package
+
+-Good for real time services
+
+-It's single thread can manage multiple connections(it is done with non-blocking io model, 
+when we run nodejs on server his thread can manage multiple connections simultaneously(at same time)).
+
+>> Installation of NodeJS
+1.Install Node js application
+
+2.Check in cmd for version
+
+3.Wrote command npm init -v
+
+4.Create a folder on dekstop
+
+5.Open folder in VScode
+
+6.Install Packages
+
+>> Commands for running node application
+-node -v : to check version
+
+-cd : to locate to current directory
+
+-cd-.. : to remove current directory
+
+-node <file name>: to run an specific application/file
+
+>>npm(node package management)
+
+>>v8 engine convert js into machine code .
+
