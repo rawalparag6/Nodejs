@@ -1,0 +1,4 @@
+> Use the createServer() method to create an HTTP server.
+> HTTP(hyper text trasnfer protocol) is build-in module in nodejs which allows nodejs to transfer data over http.
+> res.writeHead() method shows status code (200) which means all okay then second argument is a object containing response header.
+> res.end() function used to end the response.
