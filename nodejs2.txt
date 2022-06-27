@@ -1,0 +1,11 @@
+stream
+-can create streams in Node.js to transfer data.
+- increase perfronce.
+readabble stream: allow node js to read data from stream.
+writable stream: allow node js to write data from a stream.
+duplex: can read and write to a stream.
+
+buffer 
+- temporary storage spot for a chunk of data that is being transferred from one place to another.
+- the buffer is filler with data , then passed along.
+- transfer small chunks of data at a time.
